@@ -3,8 +3,16 @@
     background-color: hsl(25, 5%, 95%);
 }
 
+html {
+    padding-top: 2em;
+}
+
 h2 {
     text-align: center;
+}
+
+h3 {
+    padding-top: 2em;
 }
 
 div p {

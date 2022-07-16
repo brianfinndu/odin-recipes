@@ -10,3 +10,7 @@ I feel that some of the biggest takeaways from this project for me are:
 - Improved familiarity with the workflow of viewing and manipulating a file through both the browser and the IDE simultaneously
 - Improved knowledge of chaining element types (for exaample, putting a series of <p>s inside of an <li> inside of an <ol>)
 - Improved understanding of the way lines are represented in a browser
+
+* UPDATE 7/15
+
+A second go-around allowed me to fiddle around with the styles using CSS. The site certainly looks considerably cleaner now, and it has a more appealing and welcoming aesthetic. There is tons more to learn, but this is a start! This has been an eye-opening exercise that has made me realize that there is a TON to learn here.

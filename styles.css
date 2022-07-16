@@ -1,0 +1,36 @@
+* {
+    font-family: Tahoma, Helvetica, sans-serif;
+    background-color: hsl(25, 5%, 95%);
+}
+
+h2 {
+    text-align: center;
+}
+
+div p {
+    font-style: oblique;
+}   
+
+div {
+    text-align: center;
+}
+
+.page-title {
+    text-align: center;
+    font-size: 44px;
+    font-weight: bold;
+}
+
+#whooping,
+#charmed {
+    font-size: 32;
+    font-weight: 800;
+}
+
+#whooping {
+    color: red;
+}
+
+#charmed {
+    color: rgb(35, 179, 226);
+}

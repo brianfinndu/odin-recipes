@@ -1,10 +1,20 @@
+@font-face {
+    font-family: 'bobby-jones';
+    src: url("./bobby-jones.otf");
+}
+
+@font-face {
+    font-family: 'fira-sans';
+    src: url("./FiraSans-Medium.ttf")
+}
+
 * {
-    font-family: Tahoma, Helvetica, sans-serif;
-    background-color: hsl(25, 5%, 95%);
+    font-family: fira-sans, Tahoma, Helvetica, sans-serif;
+    background-color: hsl(46, 100%, 95%);
 }
 
 html {
-    padding-top: 2em;
+    padding-top: 1em;
 }
 
 h2 {
@@ -24,14 +34,26 @@ div {
 }
 
 .page-title {
+    font-family: 'bobby-jones';
+    text-align: center;
+    font-size: 72px;
+    font-weight: bold;
+    color: hsl(228, 100%, 16%)
+}
+
+.homepage-link {
     text-align: center;
     font-size: 44px;
-    font-weight: bold;
+}
+
+#top-hl {
+    padding-top: 1em;
 }
 
 #whooping,
-#charmed {
-    font-size: 32;
+#charmed,
+#screaming-crying-throwing-up {
+    font-size: 24px;
     font-weight: 800;
 }
 
@@ -41,4 +63,8 @@ div {
 
 #charmed {
     color: rgb(35, 179, 226);
+}
+
+#screaming-crying-throwing-up {
+    color: darkblue;
 }
